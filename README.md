@@ -12,7 +12,7 @@ Simulador de consola (CLI) en Java que modela cinco funciones del kernel:
 - Deadlock: simulación, detección y resolución abortando un proceso
 
 ## Cómo ejecutarlo
-1. Requisitos: JDK 8 o superior y NetBeans (probado en NetBeans 30).
+1. Requisitos: probado con JDK 26 y NetBeans (probado en NetBeans 30).
 2. Abrir la carpeta del proyecto en NetBeans y ejecutar `SimuladorKernel.java`.
 
 ## Estructura
