@@ -1,7 +1,7 @@
 # Simulador de Funciones del Kernel - Sistemas Operativos I
 
 Proyecto final, Universidad Mariano Gálvez de Guatemala.
-Autor: [Hanz Alexander Chanchavac Gonzalez]  |  Catedrático: Ing. Julio Gómez
+Autor: Hanz Alexander Chanchavac Gonzalez |  Catedrático: Ing. Julio Roberto Gómez Orozco
 
 Simulador de consola (CLI) en Java que modela cinco funciones del kernel:
 
